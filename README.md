@@ -1,0 +1,2 @@
+# NorwichCQRSCore
+A CQRS framework
